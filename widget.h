@@ -1,8 +1,9 @@
 #ifndef WIDGET_H
 #define WIDGET_H
 
-//#include <QWidget>
+#include <QWidget>
 #include <QtGui>
+#include <QCompleter>
 
 namespace Ui {
     class Widget;

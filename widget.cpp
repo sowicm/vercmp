@@ -3,6 +3,9 @@
 
 #include "ResultFrm.h"
 
+#include <QFileSystemModel>
+#include <QFileDialog>
+
 Widget::Widget(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::Widget)
